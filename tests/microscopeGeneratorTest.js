@@ -2,7 +2,7 @@
  * Modules dependencies
  */
 var assert = require("assert");
-var MicroscopeGenerator = require('../lib/microscopeGenerator');
+var MicroscopeGenerator = require('../lib/microapiGenerator');
 
 describe('microscopeGeneratorTest', function(){
 

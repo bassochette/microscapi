@@ -1,10 +1,7 @@
-README
-======
-
-What is this project ?
-----------------------
-
-microscope application.
+microApi
+========
+Fork of microscope
+==================
 
 Requirements
 ------------
@@ -27,7 +24,7 @@ Getting started
 
 Run the following commands:
 
-	microscope server
+	
 
 Documentation
 -------------

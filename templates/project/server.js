@@ -107,7 +107,7 @@ var Application = (function(){
     Application.prototype.run = function() {
         var self = this;
         var server = http.createServer(this.app).listen(this.app.get('port'), function(){
-            console.log("\n microscope server listening on port " + self.app.get('port'));
+            console.log("\n microApi on port " + self.app.get('port'));
         });
     };
 
