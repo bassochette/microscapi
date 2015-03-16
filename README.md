@@ -32,7 +32,7 @@ Getting started
 
 Open terminal and run:
 
-	microscope new [myprojectname]
+	microapi new [myprojectname]
 	cd [myprojectname]
 	sudo npm install
 	bower install
